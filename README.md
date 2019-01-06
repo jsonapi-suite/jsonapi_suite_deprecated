@@ -1,12 +1,12 @@
 # JsonapiSuite
 
+**NOTE:: This library has evolved into [Graphiti](https://graphiti-api.github.io/graphiti/guides/), the 1.0 version of JSONAPI Suite**
+
 [![Build Status](https://travis-ci.org/jsonapi-suite/jsonapi_suite.svg?branch=master)](https://travis-ci.org/jsonapi-suite/jsonapi_suite)
 
 Easily build jsonapi.org-compatible APIs in Rails.
 
-[View Overview Documentation](https://jsonapi-suite.github.io/jsonapi_suite)
-
-[View Tutorial/Sample applications](https://gist.github.com/richmolj/c7f1adca75f614bb71b27f259ff3c37a)
+[View Overview Documentation](https://jsonapi-suite.github.io/jsonapi_suite_deprecated/)
 
 [View YARD documentation](https://jsonapi-suite.github.io/jsonapi_compliable)
 
